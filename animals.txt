@@ -13,3 +13,4 @@ guinnea pig
 dolphin
 narwal
 wart hog
+rat
